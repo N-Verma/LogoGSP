@@ -43,6 +43,10 @@
   border-radius: 1rem;
   box-shadow: 0 3px 7px rgb(184, 181, 174);
 }
+.btn .btn-success {
+  border: none;
+  border-radius: 10px;
+}
 @media (max-width: 990px) {
   .inside2 {
     position: relative;
